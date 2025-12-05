@@ -1,0 +1,28 @@
+Checking 2 tiles more bumps than nicks, 1 tile more nicks, no 2 tiles tile
+And 3 tiles, 1 balanced, 1 more nicks, 1 more bumps
+
+Total: 6842
+
+Heesch nums:
+0: 134
+1: 1577
+2: 1392
+3: 763
+4: 350
+5: 229
+6: 120
+7: 51
+8: 33
+9: 19
+10: 7
+11: 7
+12: 5
+13: 2
+14: 1
+
+Non-tilers: 4690
+Tilers: 2149
+Undefined: 3
++0+0-0,++-++0,--+-00
++++-+0,+++--0,----00 
++++++0,+-+000,--+0-0
