@@ -1,0 +1,6 @@
+4
+1 1 000000 3
+3 1 aaAaaA aaaAA0 A0A0A0 4
+2 1 aaaa00 AAa000 8
+3 1 aaAaaA aaaAA0 A0A0A0 5
+
