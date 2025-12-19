@@ -22,3 +22,21 @@ make tt1
 ```
 
 Look at i_example.txt for example of input
+
+
+## more_markings_src
+In more_markings_src, there is support for multiple markings, 0 matches to 0, a matches to A, b matches to B, etc, as well as disabling reflections.
+
+Building and running is same as in src, (mcc is the marked corona checker), only difference is that the file format for mcc looks like:
+```
+N
+M Q shape1 shape2 ... shapeM C
+...
+```
+Where N is the number of pages, followed by N lines of the format 
+
+M Q shape1 shape2 ... shapeM
+
+where M is the number of shapes, and Q is the maximum number of markings. C is the number of coronas to generate. For tt, file format is the same except there is no value C at the end of each line
+
+The _norefs files don't allow reflections, and currently viz files in more_marking_src supports up to 4 different tiles and up to 3 different markings.
